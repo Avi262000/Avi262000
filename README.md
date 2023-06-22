@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Avinandan patel!!
+I have done my Post Graduation in Applied Statistics & Informatics from IIT Bombay. I have developed a strong foundation in Machine learning & Deep learning algorithm. Proficient in programming languages such as Python, R and have extensive hands-on experience with popular machine learning frameworks like Sklearn, Tensorflow, Keras, OpenCV etc. I am currently looking for practical experience in Data Science Domain.
 
 <!--
 **Avi262000/Avi262000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
